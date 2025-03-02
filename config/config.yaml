@@ -1,0 +1,8 @@
+port: 8080
+database_user: "postgres"
+database_password: "password"
+database_host: "localhost"
+database_port: "5432"
+database_name: "backenddemo"
+database_sslmode: "disable"
+database_timezone: "UTC"
